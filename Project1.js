@@ -1,7 +1,6 @@
 function change_colour(id)
 {
 	var changehu=[
-		"red",
 		"green",
 		"blue",
 		"white",
