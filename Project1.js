@@ -1,6 +1,6 @@
 function change_colour(id)
 {
-	var change=[
+	var kdsjlfsldlksdfj=[
 		"red",
 		"green",
 		"blue",
